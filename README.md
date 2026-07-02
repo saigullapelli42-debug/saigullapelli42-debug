@@ -98,9 +98,9 @@ To leverage my analytical skills and technical expertise to build data-driven so
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sai-gullapelly-tcs/)
+- 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://saigullapelli42-debug.github.io/sai-portfolio/)
+- 📧 Email: saigullapelly.jobs@gmail.com
 
 ---
 
