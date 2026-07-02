@@ -26,7 +26,7 @@ Passionate about transforming data into actionable insights that drive business 
 
 ### Programming & Query Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.hackerrank.com/certificates/iframe/99128a7b1081)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### BI & Analytics
@@ -98,8 +98,8 @@ To leverage my analytical skills and technical expertise to build data-driven so
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sai-gullapelly-tcs/)
-- 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://saigullapelli42-debug.github.io/sai-portfolio/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sai-gullapelly-tcs/)
+- 🌐 Portfolio: [Portfolio](https://saigullapelli42-debug.github.io/sai-portfolio/)
 - 📧 Email: saigullapelly.jobs@gmail.com
 
 ---
