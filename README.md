@@ -1,9 +1,11 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Sai Gullapelly</h1>
-<h3 align="center">📊 Data Analyst | SQL | Python | Power BI | Excel | 4+ Years of Experience</h3>
+
+<h3 align="center">
+Data Analyst | SQL | Python | Power BI | Excel | 4+ Years of Experience
+</h3>
 
 <p align="center">
-Passionate about transforming raw data into meaningful insights that help businesses make informed decisions.
+Passionate about transforming data into actionable insights that drive business decisions.
 </p>
 
 ---
@@ -11,107 +13,103 @@ Passionate about transforming raw data into meaningful insights that help busine
 ## 👨‍💼 About Me
 
 - 📊 Data Analyst with **4+ years** of professional experience
-- 📈 Experienced in Data Analysis, Reporting, Dashboard Development, and Business Intelligence
-- 🗄️ Strong knowledge of SQL and Database Management
-- 🐍 Skilled in Python for Data Analysis and Automation
-- 📊 Building interactive dashboards using Power BI
-- 📚 Continuously learning new technologies in Analytics, Cloud, and AI
-- 🤝 Open to collaboration on data-driven projects
+- 📈 Expertise in data analysis, reporting, dashboard development, and business intelligence
+- 🗄️ Strong knowledge of SQL and database management
+- 🐍 Skilled in Python for data analysis and automation
+- 📊 Experienced in Power BI dashboard development
+- 🌱 Currently exploring AI, Cloud, and Advanced Analytics
+- 💡 Passionate about solving business problems using data
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming
-- Python
-- SQL
+### Programming & Query Languages
 
-### Data Analytics
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- KPI Reporting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-### BI & Reporting
-- Power BI
-- Microsoft Excel
+### BI & Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Databases
-- MySQL
+
 - Microsoft SQL Server
+- MySQL
 
 ### Tools
+
 - Git
 - GitHub
+- VS Code
 - Jupyter Notebook
-- Google Colab
-- Visual Studio Code
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 📊 Power BI Dashboards
-Interactive dashboards for sales, finance, and business performance.
+### 📊 SQL Data Warehouse Project
+Designing and implementing a modern SQL Server data warehouse with ETL pipelines and analytical reporting.
 
-### 🗃️ SQL Projects
-Real-world SQL queries, joins, stored procedures, and optimization examples.
+### 📈 Power BI Dashboards
+Interactive dashboards for sales analysis, KPI tracking, and executive reporting.
 
-### 🐍 Python Data Analysis
-Data cleaning, automation, visualization, and reporting using Python.
+### 🐍 Python Analytics
+Data cleaning, visualization, automation, and reporting using Python.
 
-### 📈 Business Analytics
-Projects focused on KPIs, trend analysis, and business insights.
+### 🌐 Portfolio Website
+Professional portfolio showcasing projects, technical skills, and achievements.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
-> Replace `saigullapelli42-debug` with your GitHub username.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saigullapelli42-debug&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[saigullapelli42-debug](https://github.com/saigullapelli42-debug)&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[saigullapelli42-debug](https://github.com/saigullapelli42-debug)&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saigullapelli42-debug&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=saigullapelli42-debug&theme=tokyonight)
 
 ---
 
-## 🏆 Areas of Expertise
+## 💼 Core Skills
 
-- Business Intelligence
-- Data Analytics
-- Dashboard Development
-- SQL Performance Optimization
-- Reporting Automation
+- SQL
+- Python
+- Power BI
+- Microsoft Excel
 - Data Visualization
-- Process Improvement
+- ETL
+- Business Intelligence
+- Dashboard Development
+- KPI Reporting
+- Data Cleaning
+- Data Analysis
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Career Objective
 
-- Advanced Power BI
-- Machine Learning
-- Cloud Data Platforms
-- AI for Data Analytics
+To leverage my analytical skills and technical expertise to build data-driven solutions that improve business performance and support strategic decision-making.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sai-gullapelly-tcs/)
-- 🌐 Portfolio: [https://saigullapelli42-debug.github.io/](https://github.com/saigullapelli42-debug)
-- 📧 Email: saigullapelly.jobs@gmail.com
-
----
-
-## 💡 Quote
-
-> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
+- 💼 LinkedIn: YOUR_LINKEDIN_URL
+- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 📧 Email: YOUR_EMAIL
 
 ---
 
-⭐ If you like my work, consider giving a ⭐ to my repositories.
-```
+## 📊 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=saigullapelli42-debug&color=blue)
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
